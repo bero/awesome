@@ -234,6 +234,7 @@
 - [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
 	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [D](https://github.com/dlang-community/awesome-d#readme)
+- [Pascal](https://github.com/bero/awesome-pascal#readme) - High-performance native compiled language. Delphi's Object Pascal enables cross-platform RAD development for Windows, macOS, iOS, Android, and Linux. Many components also work with FreePascal/Lazarus, an open-source alternative.
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
 	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
@@ -248,7 +249,6 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
-- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
